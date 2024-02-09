@@ -1,0 +1,5 @@
+/cri_usm_demuxer
+/out/*
+/output/*
+/your_pycriusm_path.txt
+/batch.py
